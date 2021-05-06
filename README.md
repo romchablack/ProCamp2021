@@ -1,2 +1,2 @@
 # gl-qa-auto
-QA Auto 2021
+GL QA Auto courses
